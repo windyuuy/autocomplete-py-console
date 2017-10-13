@@ -1,0 +1,9 @@
+
+extkeys:
+    - rlcompleter
+    - Completer
+    - numpy
+    - readline
+    - system
+
+packageskeys:
